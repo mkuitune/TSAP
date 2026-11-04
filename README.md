@@ -6,6 +6,8 @@ Once you've figured out what you want to build over the next days and weeks, tra
 
 Give [`tracked-system-architecture-plan-v1.5.md`](tracked-system-architecture-plan-v1.5.md) to your LLM assistant. Decide together what you want to build, what counts as done, and how to track progress.
 
+This is not supposed to replace your architecture spec or other planning documents. Its purpose is to provide an unambiguous control surface for project management.
+
 TSAP has just three building blocks:
 
 ### 1. System Milestones
